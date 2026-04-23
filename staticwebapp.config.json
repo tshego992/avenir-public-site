@@ -1,0 +1,9 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/privacy.html", "/support.html", "/*.{css,png,gif,ico,jpg,svg}"]
+  },
+  "mimeTypes": {
+    ".html": "text/html"
+  }
+}
